@@ -45,5 +45,6 @@ while resposta != 'N':
         print(valor_venda)
 
     resposta = input('Deseja prosseguir? [S/N] ').upper().strip()[0]
+print('Programa encerrado.')
 
 
